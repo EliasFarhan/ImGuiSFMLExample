@@ -1,0 +1,20 @@
+{
+	"name": "SceneTest",
+	"gameObjects": [
+		{
+			"name": "SpriteTest",
+			"components": [
+				{
+					"type": "Transform",
+					"position": [300, 300],
+					"scale" : [1.0,1.0,1.0],
+					"eulerAngle": 0.0
+				},
+				{
+					"type": "Sprite",
+					"filename": "data/sprites/test.png"
+				}
+			]
+		}
+	]
+}
